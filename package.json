@@ -1,0 +1,22 @@
+{
+  "name": "keystroke-for-keyboard-event",
+  "version": "1.0.0",
+  "description": "Determine the keystroke given a keyboard event",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npezza93/keystroke-for-keyboard-event.git"
+  },
+  "author": {
+    "name": "Nick Pezza",
+    "email": "npezza93@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/npezza93/keystroke-for-keyboard-event",
+  "bugs": {
+    "url": "https://github.com/npezza93/keystroke-for-keyboard-event/issues"
+  },
+  "dependencies": {
+    "keyboard-layout": "^2.0.14"
+  }
+}

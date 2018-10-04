@@ -1,0 +1,10 @@
+#directories
+node_modules
+release-builds
+dist
+
+#files
+*.tgz
+*.log
+.DS_Store
+yarn.lock
