@@ -17,6 +17,6 @@
     "url": "https://github.com/npezza93/keystroke-for-keyboard-event/issues"
   },
   "dependencies": {
-    "keyboard-layout": "felixrieseberg/keyboard-layout#electron-6"
+    "keyboard-layout": "atom/keyboard-layout"
   }
 }
