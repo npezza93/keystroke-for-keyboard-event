@@ -1,5 +1,5 @@
 {
-  "name": "keystroke-for-keyboard-event",
+  "name": "@npezza93/keystroke-for-keyboard-event",
   "version": "1.1.0",
   "description": "Determine the keystroke given a keyboard event",
   "main": "index.js",
